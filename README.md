@@ -6,6 +6,13 @@ A curated list of community-created projects built around **Sharkord**.
 
 ---
 
+## 📑 Navigation
+- [📦 Clients](#-clients)
+- [🔌 Plugins](#-plugins)
+- [🚀 How to Contribute](#-how-to-contribute)
+
+---
+
 ## 📦 Clients
 
 | Project | Description | Repository |

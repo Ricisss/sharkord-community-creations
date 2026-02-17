@@ -39,18 +39,20 @@ Want your project listed here? Follow the guidelines below:
 - Keep your description concise (1–2 sentences).
 - New submissions are always added at the bottom of its respective category.
 
-### Reporting or Removal Requests
-
-If you believe a listed project contains malware, malicious code, or violates community standards:
-
-- Open an Issue with clear evidence and details.
-- Provide links to relevant commits, files, or analysis.
-- Do not make unsupported accusations.
+### Removal Requests
 
 If you are a project owner and would like your project removed:
 
 - Open an Issue requesting removal.
 - Include a link to your repository and proof of ownership.
 - Removal requests from project owners will be honored.
+
+### Reporting
+
+If you believe a listed project contains malware, malicious code, or violates community standards:
+
+- Open an Issue with clear evidence and details.
+- Provide links to relevant commits, files, or analysis.
+- Do not make unsupported accusations.
 
 Projects confirmed to contain malicious or harmful code will be removed.

@@ -1,6 +1,6 @@
 # 🦈 Awesome Projects by the Sharkord Community
 
-A curated list of community-created projects built around **Sharkord**.
+A curated list of community-created projects built around [**Sharkord**](https://sharkord.com/).
 
 > ⚠️ This list is maintained by the community. Projects included here are not reviewed, audited, or endorsed for security, safety, or functionality. Use them at your own discretion — the maintainer/s of this list assume no responsibility or liability for any damage, data loss, or harmful behavior resulting from their use.
 

@@ -44,7 +44,7 @@ Want your project listed here? Follow the guidelines below:
 
 ### Submission Rules
 
-- Your project must be publicly available on GitHub.
+- Your project must be publicly available on GitHub or a similiar alternative.
 - It must clearly use or extend Sharkord.
 - The repository should include a README explaining what it does.
 - The project must not contain malicious or harmful code.

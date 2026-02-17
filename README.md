@@ -19,7 +19,7 @@ A curated list of community-created projects built around **Sharkord**.
 
 ---
 
-## 🚀 How to Submit Your Project
+## 🚀 How to contribute
 
 Want your project listed here? Follow the guidelines below:
 
